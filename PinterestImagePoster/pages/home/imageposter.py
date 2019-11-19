@@ -24,6 +24,7 @@ class PostImage(BasePage):
     _image_desc = "//textarea[@placeholder='Tell everyone what your Pin is about']"
     _board_menu = "//button[@data-test-id='board-dropdown-select-button']"
     _submit_button = "//button[@data-test-id='board-dropdown-save-button']"
+    image_locators = ["C:\\Photos\\MyDog", "C:\\Photos\\YourDog", "C:\\Photos\\HerDog", "C:\\Photos\\HappyDog", "C:\\Photos\\SleepyDog", "C:\\Photos\\BabyDog"]
 
     def clickProfile(self):
         self.elementClick(self._profile, locatorType="xpath")
@@ -40,14 +41,16 @@ class PostImage(BasePage):
     def addADescription(self, description="This is my new image, do you like it?"):
         self.sendKeys(description, self._image_desc, locatorType="xpath")
 
-    def clickUploadAnImage(self, image='C:\\Photos\\MyDog'):
+    def clickUploadAnImage(self):
         self.elementClick(self._upload_image_button, locatorType="xpath")
         time.sleep(1)
 
     def typeInImage(self):
-        self.keyboard.type('C:\\Photos\\MyDog')
-        time.sleep(1)
-        self.keyboard.press(Key.enter)
+        numOfImages = len(self.image_locators)
+        for image in range(0, numOfImages):
+            self.keyboard.type(self.image_locators[image])
+            time.sleep(1)
+            self.keyboard.press(Key.enter)
 
     def accessBoards(self, boardName="Dogs"):
         _board_selection = "//div[@title='" + str(boardName) + "']"

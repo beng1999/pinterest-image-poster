@@ -1,0 +1,68 @@
+11/19/2019 03:47:24 PM - Login - INFO: Element found with locator: //a[contains(text(), 'Already a member? Log in')] and  locatorType: xpath
+11/19/2019 03:47:24 PM - Login - INFO: Clicked on element with locator: //a[contains(text(), 'Already a member? Log in')] locatorType: xpath
+11/19/2019 03:47:26 PM - Login - INFO: Element found with locator: email and  locatorType: id
+11/19/2019 03:47:27 PM - Login - INFO: Sent data on element with locator: email locatorType: id
+11/19/2019 03:47:29 PM - Login - INFO: Element found with locator: password and  locatorType: id
+11/19/2019 03:47:29 PM - Login - INFO: Sent data on element with locator: password locatorType: id
+11/19/2019 03:47:31 PM - Login - INFO: Element found with locator: //div[contains(text(), 'Log in')]//parent::button and  locatorType: xpath
+11/19/2019 03:47:31 PM - Login - INFO: Clicked on element with locator: //div[contains(text(), 'Log in')]//parent::button locatorType: xpath
+11/19/2019 03:47:35 PM - PostImage - INFO: Element found with locator: //a[@href='/ben_g98/'] and  locatorType: xpath
+11/19/2019 03:47:37 PM - PostImage - INFO: Clicked on element with locator: //a[@href='/ben_g98/'] locatorType: xpath
+11/19/2019 03:47:39 PM - PostImage - INFO: Element found with locator: //button[@aria-label='Profile actions overflow'] and  locatorType: xpath
+11/19/2019 03:47:39 PM - PostImage - INFO: Clicked on element with locator: //button[@aria-label='Profile actions overflow'] locatorType: xpath
+11/19/2019 03:47:41 PM - PostImage - INFO: Element found with locator: //div[@title='Create Pin'] and  locatorType: xpath
+11/19/2019 03:47:41 PM - PostImage - INFO: Clicked on element with locator: //div[@title='Create Pin'] locatorType: xpath
+11/19/2019 03:47:44 PM - PostImage - INFO: Element found with locator: //*[@id='media-upload-input']//parent::div and  locatorType: xpath
+11/19/2019 03:47:44 PM - PostImage - INFO: Clicked on element with locator: //*[@id='media-upload-input']//parent::div locatorType: xpath
+11/19/2019 03:49:47 PM - Login - INFO: Element found with locator: //a[contains(text(), 'Already a member? Log in')] and  locatorType: xpath
+11/19/2019 03:49:47 PM - Login - INFO: Clicked on element with locator: //a[contains(text(), 'Already a member? Log in')] locatorType: xpath
+11/19/2019 03:49:49 PM - Login - INFO: Element found with locator: email and  locatorType: id
+11/19/2019 03:49:49 PM - Login - INFO: Sent data on element with locator: email locatorType: id
+11/19/2019 03:49:51 PM - Login - INFO: Element found with locator: password and  locatorType: id
+11/19/2019 03:49:52 PM - Login - INFO: Sent data on element with locator: password locatorType: id
+11/19/2019 03:49:54 PM - Login - INFO: Element found with locator: //div[contains(text(), 'Log in')]//parent::button and  locatorType: xpath
+11/19/2019 03:49:54 PM - Login - INFO: Clicked on element with locator: //div[contains(text(), 'Log in')]//parent::button locatorType: xpath
+11/19/2019 03:49:59 PM - PostImage - INFO: Element found with locator: //a[@href='/ben_g98/'] and  locatorType: xpath
+11/19/2019 03:49:59 PM - PostImage - INFO: Clicked on element with locator: //a[@href='/ben_g98/'] locatorType: xpath
+11/19/2019 03:50:01 PM - PostImage - INFO: Element found with locator: //button[@aria-label='Profile actions overflow'] and  locatorType: xpath
+11/19/2019 03:50:01 PM - PostImage - INFO: Clicked on element with locator: //button[@aria-label='Profile actions overflow'] locatorType: xpath
+11/19/2019 03:50:03 PM - PostImage - INFO: Element found with locator: //div[@title='Create Pin'] and  locatorType: xpath
+11/19/2019 03:50:03 PM - PostImage - INFO: Clicked on element with locator: //div[@title='Create Pin'] locatorType: xpath
+11/19/2019 03:50:06 PM - PostImage - INFO: Element found with locator: //*[@id='media-upload-input']//parent::div and  locatorType: xpath
+11/19/2019 03:50:07 PM - PostImage - INFO: Clicked on element with locator: //*[@id='media-upload-input']//parent::div locatorType: xpath
+11/19/2019 03:50:18 PM - PostImage - INFO: Element found with locator: //textarea[@placeholder='Add your title'] and  locatorType: xpath
+11/19/2019 03:50:18 PM - PostImage - INFO: Sent data on element with locator: //textarea[@placeholder='Add your title'] locatorType: xpath
+11/19/2019 03:50:20 PM - PostImage - INFO: Element found with locator: //textarea[@placeholder='Tell everyone what your Pin is about'] and  locatorType: xpath
+11/19/2019 03:50:21 PM - PostImage - INFO: Sent data on element with locator: //textarea[@placeholder='Tell everyone what your Pin is about'] locatorType: xpath
+11/19/2019 03:50:23 PM - PostImage - INFO: Element found with locator: //button[@data-test-id='board-dropdown-select-button'] and  locatorType: xpath
+11/19/2019 03:50:23 PM - PostImage - INFO: Clicked on element with locator: //button[@data-test-id='board-dropdown-select-button'] locatorType: xpath
+11/19/2019 03:50:23 PM - PostImage - INFO: Element found with locator: //div[@title='Dogs'] and  locatorType: xpath
+11/19/2019 03:50:23 PM - PostImage - INFO: Clicked on element with locator: //div[@title='Dogs'] locatorType: xpath
+11/19/2019 03:50:25 PM - PostImage - INFO: Element found with locator: //button[@data-test-id='board-dropdown-save-button'] and  locatorType: xpath
+11/19/2019 03:50:25 PM - PostImage - INFO: Clicked on element with locator: //button[@data-test-id='board-dropdown-save-button'] locatorType: xpath
+11/19/2019 03:51:13 PM - Login - INFO: Element found with locator: //a[contains(text(), 'Already a member? Log in')] and  locatorType: xpath
+11/19/2019 03:51:13 PM - Login - INFO: Clicked on element with locator: //a[contains(text(), 'Already a member? Log in')] locatorType: xpath
+11/19/2019 03:51:15 PM - Login - INFO: Element found with locator: email and  locatorType: id
+11/19/2019 03:51:15 PM - Login - INFO: Sent data on element with locator: email locatorType: id
+11/19/2019 03:51:17 PM - Login - INFO: Element found with locator: password and  locatorType: id
+11/19/2019 03:51:17 PM - Login - INFO: Sent data on element with locator: password locatorType: id
+11/19/2019 03:51:19 PM - Login - INFO: Element found with locator: //div[contains(text(), 'Log in')]//parent::button and  locatorType: xpath
+11/19/2019 03:51:19 PM - Login - INFO: Clicked on element with locator: //div[contains(text(), 'Log in')]//parent::button locatorType: xpath
+11/19/2019 03:51:27 PM - PostImage - INFO: Element found with locator: //a[@href='/ben_g98/'] and  locatorType: xpath
+11/19/2019 03:51:27 PM - PostImage - INFO: Clicked on element with locator: //a[@href='/ben_g98/'] locatorType: xpath
+11/19/2019 03:51:30 PM - PostImage - INFO: Element found with locator: //button[@aria-label='Profile actions overflow'] and  locatorType: xpath
+11/19/2019 03:51:30 PM - PostImage - INFO: Clicked on element with locator: //button[@aria-label='Profile actions overflow'] locatorType: xpath
+11/19/2019 03:51:32 PM - PostImage - INFO: Element found with locator: //div[@title='Create Pin'] and  locatorType: xpath
+11/19/2019 03:51:32 PM - PostImage - INFO: Clicked on element with locator: //div[@title='Create Pin'] locatorType: xpath
+11/19/2019 03:51:35 PM - PostImage - INFO: Element found with locator: //*[@id='media-upload-input']//parent::div and  locatorType: xpath
+11/19/2019 03:51:35 PM - PostImage - INFO: Clicked on element with locator: //*[@id='media-upload-input']//parent::div locatorType: xpath
+11/19/2019 03:51:46 PM - PostImage - INFO: Element found with locator: //textarea[@placeholder='Add your title'] and  locatorType: xpath
+11/19/2019 03:51:47 PM - PostImage - INFO: Sent data on element with locator: //textarea[@placeholder='Add your title'] locatorType: xpath
+11/19/2019 03:51:49 PM - PostImage - INFO: Element found with locator: //textarea[@placeholder='Tell everyone what your Pin is about'] and  locatorType: xpath
+11/19/2019 03:51:49 PM - PostImage - INFO: Sent data on element with locator: //textarea[@placeholder='Tell everyone what your Pin is about'] locatorType: xpath
+11/19/2019 03:51:51 PM - PostImage - INFO: Element found with locator: //button[@data-test-id='board-dropdown-select-button'] and  locatorType: xpath
+11/19/2019 03:51:51 PM - PostImage - INFO: Clicked on element with locator: //button[@data-test-id='board-dropdown-select-button'] locatorType: xpath
+11/19/2019 03:51:52 PM - PostImage - INFO: Element found with locator: //div[@title='Dogs'] and  locatorType: xpath
+11/19/2019 03:51:52 PM - PostImage - INFO: Clicked on element with locator: //div[@title='Dogs'] locatorType: xpath
+11/19/2019 03:51:54 PM - PostImage - INFO: Element found with locator: //button[@data-test-id='board-dropdown-save-button'] and  locatorType: xpath
+11/19/2019 03:51:54 PM - PostImage - INFO: Clicked on element with locator: //button[@data-test-id='board-dropdown-save-button'] locatorType: xpath
